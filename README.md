@@ -1,6 +1,6 @@
 # front-todolist
 
-Ce projet est une todolist réalisée avec Vue.js.
+Ce projet est une todolist réalisée avec Vue.js dans le cadre du module Framework JS pour l'obtention du titre de concepteur développeur.
 
 ## Les dépendances du projet
 
@@ -19,10 +19,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
